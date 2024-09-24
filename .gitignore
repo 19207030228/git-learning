@@ -1,0 +1,32 @@
+# 忽略特定的文件
+.bash_history
+.dotnet/
+.gitconfig
+.lesshst
+.oss-browser/
+.t_coffee/
+.vscode/
+ya.git/
+zhineng.git/
+
+# 忽略特定的目录
+AppData/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+OneDrive/
+Pictures/
+Saved Games/
+Searches/
+Videos/
+Zotero/
+
+# 忽略所有以 .log 结尾的文件
+*.log
+
+# 忽略所有在用户目录下的文件
+*/
